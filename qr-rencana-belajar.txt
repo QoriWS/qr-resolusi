@@ -2,6 +2,8 @@ RENCANA BELAJAR QR
 
 -- Belajar JavaScript
   * Framework JavaScript 
+    - Vue
 -- Belajar React.js
 -- Belajar OOP
 -- Membuat website yang interaktif
+-- Python
