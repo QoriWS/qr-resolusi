@@ -1,0 +1,5 @@
+RENCANA BELAJAR QR
+
+-- Belajar JavaScript
+-- Belajar React.js
+-- Belajar OOP
